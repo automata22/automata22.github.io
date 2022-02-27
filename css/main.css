@@ -2594,7 +2594,7 @@ p.byline { text-align: center; font-size: 18px; line-height: 36px; margin-top: -
 
 pubtit { font-weight: bold; }
 
-h1, h2, h3, h4, h5 { color: #022c10; margin-top: 2px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; }
+h1, h2, h3, h4, h5 { color: #06421a; margin-top: 2px; margin-bottom: 2px; margin-left: 2px; margin-right: 2px; }
 
 .container-fluid { margin-right: auto; margin-left: auto; max-width: 1000px; /* or 950px */ }
 
